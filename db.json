@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "id": "6288ee3b-e0b6-4ef3-9518-8a6f737f75e9",
+      "content": "a dasdasdas",
+      "title": "",
+      "bookmark": true,
+      "open": false
+    },
+    {
+      "id": "e727556b-5861-421f-a150-d1539fb88e50",
+      "content": "b",
+      "title": "",
+      "bookmark": false
+    },
+    {
+      "id": "101e2ec8-d94f-4e96-a411-e64dab4c34af",
+      "content": "C",
+      "title": "",
+      "bookmark": false
+    }
+  ]
+}

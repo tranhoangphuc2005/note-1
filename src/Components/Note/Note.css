@@ -1,0 +1,38 @@
+.ui.card.content-css {
+  width: 100%;
+  height: 400px;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.icon {
+  display: flex;
+}
+
+.textarea {
+  width: 100%;
+  height: 400px;
+}
+
+.content {
+  overflow: auto;
+}
+
+.title {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.ui.button {
+  width: 10px;
+}
+
+#add-note {
+  margin: auto;
+  padding: auto;
+  width: auto;
+}
